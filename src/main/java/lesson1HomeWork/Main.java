@@ -27,7 +27,7 @@ public class Main {
 
         if (value <= 0) {
             color = "Красный";
-        } else if (value > 0 & value <= 100) {
+        } else if (value > 0 && value <= 100) {
             color = "Желтый";
         } else {
             color = "Зеленый";
